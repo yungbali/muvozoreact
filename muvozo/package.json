@@ -1,0 +1,27 @@
+{
+  "name": "muvozo",
+  "version": "1.0.0",
+  "license": "ISC",
+  "lockfileVersion": 3,
+  "requires": true,
+  "dependencies": {
+    "aws-amplify": "^6.3.6",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@aws-amplify/backend": "^1.0.3",
+    "@aws-amplify/backend-cli": "^1.0.4",
+    "aws-cdk": "^2.146.0",
+    "aws-cdk-lib": "^2.146.0",
+    "constructs": "^10.3.0",
+    "esbuild": "^0.21.5",
+    "tsx": "^4.15.4",
+    "typescript": "^5.4.5"
+  }
+}
